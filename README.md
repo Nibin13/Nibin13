@@ -1,20 +1,22 @@
+
 <h1 align="center">👋 Hey there, I'm Nibin Sabu</h1>
 <p align="center">
-  💻 Full Stack Web Developer | 🐍 Python Enthusiast | 🧬 AI in Healthcare & EdTech
+  💻 Full Stack Web Developer | 🤖 Machine Learning & AI Enthusiast | 🧬 Innovating in Health & Education
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍💻 Passionate **Full Stack Web Developer** skilled in frontend and backend tech
-- 🐍 Proficient in **Python**, with strong foundations in **Java** and **C**
-- 🧠 Strong experience in **Data Structures**, **Algorithms**, and **Problem Solving**
-- 🌐 Built **Edu-Quest** – an AI-integrated learning platform to help students crack competitive exams
-- 🔬 Currently working on **UroScan** – an AI-based medical imaging project for **kidney stone detection**
-- 🧰 Skilled with **HTML**, **CSS**, **JavaScript**, **Node.js**, **MySQL**, and **JSON**
-- 💻 Comfortable with **Jupyter Notebook**, **Google Colab**, and **VS Code**
-- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/yourname) or visit [yourwebsite.com](https://yourwebsite.com)
+- 👨‍💻 I'm a dedicated **Full Stack Web Developer** with strong frontend and backend expertise  
+- 🧠 Passionate about **Machine Learning** and **Artificial Intelligence**, especially in real-world applications  
+- ⚡ Known for being a **fast learner**, **highly adaptable**, and a **smart worker** who thrives under challenges  
+- 🐍 Proficient in **Python**, with additional experience in **Java** and **C**  
+- 🌐 Skilled in **HTML**, **CSS**, **JavaScript**, **Node.js**, **MySQL**, and **JSON**  
+- 📚 Experienced with **Jupyter Notebook**, **Google Colab**, and **Visual Studio Code**  
+- 🧪 Currently working on **UroScan** – an AI-based CT image system for **kidney stone detection**  
+- 🎓 Creator of **Edu-Quest** – an AI-powered learning platform to help students crack competitive exams  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yourname) | [Portfolio](https://yourwebsite.com)
 
 ---
 
@@ -25,8 +27,8 @@
 **Tech Used**: Python, OpenCV, Deep Learning, Flask, Medical Imaging Datasets
 
 #### 🎓 Edu-Quest
-> AI-powered learning platform designed to assist students in preparing for competitive exams  
-**Features**: Flashcards, Mind Maps, AI Quiz Generator, Notes, and Performance Tracker  
+> AI-integrated learning platform designed for students preparing for competitive exams  
+**Features**: Flashcards, Mind Maps, AI Quiz Generator, Notes, Performance Tracking  
 **Tech Used**: Python, Node.js, MySQL, JavaScript, HTML/CSS, Gemini API
 
 ---
@@ -71,6 +73,5 @@
 ---
 
 ### ⚡ Fun Fact
-> I build smart solutions that help people — from improving healthcare to transforming education.
-
+> I don't just write code — I build smart solutions that help people in real life, and I learn fast doing it.
 
