@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 🧠 Fast Learner & Smart Worker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Smart+Solutions+with+AI;Full+Stack+Dev+%7C+Machine+Learning+%7C+Python;Fast+Learning+%7C+Highly+Adaptable+%7C+Driven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+%7C+AI+Builder;Smart+Worker+%7C+Fast+Learner;Building+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
 ---
